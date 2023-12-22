@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Dennis' Ideal World',
+  name: 'Dennis Ideal World',
   domain: 'notion.so/Dennis-Home-fe33d93fe19b486b86a27385082b12cf',
   author: 'Dennis Wang',
 
